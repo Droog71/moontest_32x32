@@ -1,0 +1,31 @@
+Moon surface texture: CC0, https://tileable.co/terms-and-conditions/
+Duct texture: CC0, https://tileable.co/terms-and-conditions/
+Wall texture: CC0, https://3dtextures.me/about/
+Airlock texture: CC0, https://opengameart.org/content/40-free-metal-textures-from-mtc-sets
+Vent texture: CC0, https://publicdomainvectors.org/en/free-clipart/Metal-ventilation-grill-vector-image/13994.html
+Crate texture: CC0, https://opengameart.org/content/sci-fi-crate-1
+Table and chair textures: CC0, https://ambientcg.com/view?id=Wood067
+Counter texture: CC0, https://ambientcg.com/view?id=Marble016
+Sofa texture: CC0, https://ambientcg.com/view?id=Fabric045
+Motor texture: CC0, https://publicdomainvectors.org/en/free-clipart/Electrical-motor/56259.html
+Grass texture: CC-BY 3.0, https://opengameart.org/content/grass-texture
+Astronaut: CC0, https://opengameart.org/content/astronaut-ideas
+Alien: CC0, https://opengameart.org/content/2d-rpg-enemy-set
+Splat: CC0, https://opengameart.org/content/splattexture
+Wrench: CC0, https://publicdomainvectors.org/en/free-clipart/Pipe-wrench-vector-illustration/11183.html
+Flashlight: CC0, https://publicdomainvectors.org/en/free-clipart/Flashlight-light/85056.html
+Floppy disk: CC0, https://publicdomainvectors.org/en/free-clipart/File-save-icon/88085.html
+Gravity generator: CC BY-SA 4.0, https://sketchfab.com/3d-models/reactor-core-c1411e8423274f92bde84a8e92544397
+Coolant tank: CC BY-SA 4.0, https://sketchfab.com/3d-models/scifi-water-tank-ad06ee30b8784201bb6509ec77edfcac
+Drill: CC BY-SA 4.0, https://sketchfab.com/3d-models/driller-cc521221251a4c87b0cb429f98de882c
+HVAC: CC BY-SA 4.0, https://sketchfab.com/3d-models/hvac-unit-0bf1acaa6f1d4a9bb38cfc91fd115f9c
+Oxygen generator: CC BY-SA 4.0, https://sketchfab.com/3d-models/apparatus02-c00e97d2f9454840a96d8adcae22738f
+Generator: CC BY 4.0, https://sketchfab.com/3d-models/generator-e7d28213523a4690a9ba95eced1d7192
+REM Extractor: CC BY 4.0, https://sketchfab.com/3d-models/command-console-22ebb54b70c4429aade7b4831fb59b9d
+Research station: CC BY-SA 4.0, https://sketchfab.com/3d-models/kyecorp-console-f609887785fc497e9f0443fb7b276b81
+Research probe: CC BY 4.0, https://sketchfab.com/3d-models/luna-robot-a3e3e333700e4b0dbe134ba24721500c
+Console: CC BY-SA 4.0, https://sketchfab.com/3d-models/control-painel-c05341af291b49ef9cfce8e9fbe413f8
+Toilet: CC BY 4.0, https://sketchfab.com/3d-models/toilet-868beb5a0e6840d7a1d647a42a5e5a8c
+Moon rock: CC BY 4.0, https://sketchfab.com/3d-models/cyberpunk-rock-92ff94c70b7349b89b013e8128961b09
+
+Hovercraft, refridgerator, cabinets and solar panels: Created by Droog71, licensed CC0.
